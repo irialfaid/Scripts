@@ -1,7 +1,6 @@
 #!/bin/sh
-
 # formatdir - Outputs a directory listing in a friendly and useful format.
-
+# Does this even work? I don't remember...
 gmk()
 {
   # Given input in Kb, output in Kb, Mb, or Gb for best output format
